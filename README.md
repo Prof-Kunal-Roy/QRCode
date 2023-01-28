@@ -1,4 +1,4 @@
-# QRCode
+# QRCode (@Kunal Roy)
 QR code generator app of any text using ReactJS
 # Getting Started with Create React App
 
